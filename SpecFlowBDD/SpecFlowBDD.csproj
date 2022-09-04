@@ -20,4 +20,8 @@
     <Folder Include="Support\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BDD\TestResources\TestResources.csproj" />
+  </ItemGroup>
+
 </Project>
