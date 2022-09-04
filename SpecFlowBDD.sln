@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowBDD", "SpecFlowBDD\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestResources", "..\..\BDD\TestResources\TestResources.csproj", "{CA91A832-563A-49D3-8EC5-E0990DA6E445}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDD_Test_of_MyStore", "..\..\BDD\TDD_Test_of_CUX\TDD_Test_of_MyStore.csproj", "{A28ED28E-D59C-4CC4-A706-F27EC49CD801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA91A832-563A-49D3-8EC5-E0990DA6E445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA91A832-563A-49D3-8EC5-E0990DA6E445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA91A832-563A-49D3-8EC5-E0990DA6E445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28ED28E-D59C-4CC4-A706-F27EC49CD801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28ED28E-D59C-4CC4-A706-F27EC49CD801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28ED28E-D59C-4CC4-A706-F27EC49CD801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28ED28E-D59C-4CC4-A706-F27EC49CD801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
